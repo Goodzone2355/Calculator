@@ -364,7 +364,7 @@ function App() {
   return (
     <div className="calculator__wrapper">
       <div className="calculator__input">
-      {input}
+        <h2>{input}</h2>
       </div>
 
       <div className="calculator__buttons">
